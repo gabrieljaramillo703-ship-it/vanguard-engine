@@ -1,2 +1,2 @@
 # vanguard-engine
-Cardfigth vanguard
+"Proyecto de fans, sin afiliación con Bushiroad
